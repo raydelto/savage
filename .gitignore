@@ -12,10 +12,6 @@ doc/html/
 **/*.html
 **/*.pdf
 
-#resources no used
-Resources/
-!Resources/list.txt
-
 proj.linux/obj/
 proj.linux/bin/
 
